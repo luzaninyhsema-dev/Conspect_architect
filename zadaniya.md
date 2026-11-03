@@ -50,14 +50,13 @@
 
 ## Задание 3
 
-Формула: $\left(\overline{X} \wedge (Y \vee Z)\right) \vee \left((X \to \overline{Y}) \vee Z\right)$.
+ $\left(\overline{X} \wedge (Y \vee Z)\right) \vee \left((X \to \overline{Y}) \vee Z\right)$.
 
-Упрощение по шагам:
-1. Заменяем импликацию: $X \to \overline{Y} \equiv \overline{X} \vee \overline{Y}$.
-2. Подставляем: $\left(\overline{X} \wedge (Y \vee Z)\right) \vee \left((\overline{X} \vee \overline{Y}) \vee Z\right)$.
-3. Убираем лишние скобки: $\left(\overline{X} \wedge (Y \vee Z)\right) \vee \overline{X} \vee \overline{Y} \vee Z$.
-4. Применяем закон поглощения: $\overline{X} \vee \overline{Y} \vee Z$ поглощает $\left(\overline{X} \wedge (Y \vee Z)\right)$.
-5. Итог: $\overline{X} \vee \overline{Y} \vee Z$.
+1. $X \to \overline{Y} \equiv \overline{X} \vee \overline{Y}$.
+2.  $\left(\overline{X} \wedge (Y \vee Z)\right) \vee \left((\overline{X} \vee \overline{Y}) \vee Z\right)$.
+3. $\left(\overline{X} \wedge (Y \vee Z)\right) \vee \overline{X} \vee \overline{Y} \vee Z$.
+4.  $\overline{X} \vee \overline{Y} \vee Z$ поглощает $\left(\overline{X} \wedge (Y \vee Z)\right)$.
+5.  $\overline{X} \vee \overline{Y} \vee Z$.
 
 Таблица истинности:
 
