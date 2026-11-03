@@ -74,4 +74,4 @@
 
 Ответ: $\overline{X} \vee \overline{Y} \vee Z$.
 
-[](https://www.falstad.com/s.py?s=FeKElG)
+[Zadaniye](https://www.falstad.com/s.py?s=FeKElG)
