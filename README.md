@@ -4,6 +4,6 @@
 
 ## Навигация
 
-- [Репозиторий_преподователя](/https://gitflic.ru/project/mathros/mfua.git)
+- [Репозиторий_преподователя](https://gitflic.ru/project/mathros/mfua.git)
 - [Конспект](/conspect.md)
 - [Задания](/zadaniya.md)
