@@ -29,24 +29,11 @@
 1. Конструкция «если …, то …» → импликация: $\to$
 2. Часть «производная равна нулю **и** вторая производная отрицательна» → конъюнкция: $A \wedge B$
 3. Итоговая формула: $(A \wedge B) \to C$
-4. Таблица истинности для формулы $(A \wedge B) \to C$:
-
-| A | B | C | $A \wedge B$ | $(A \wedge B) \to C$ |
-|---|---|---|----------------|-----------------------|
-| 0 | 0 | 0 | 0              | 1                     |
-| 0 | 0 | 1 | 0              | 1                     |
-| 0 | 1 | 0 | 0              | 1                     |
-| 0 | 1 | 1 | 0              | 1                     |
-| 1 | 0 | 0 | 0              | 1                     |
-| 1 | 0 | 1 | 0              | 1                     |
-| 1 | 1 | 0 | 1              | 0                     |
-| 1 | 1 | 1 | 1              | 1                     |
 
 ---
 
 **Ответ:**
-Логическая формула — $(A \wedge B) \to C$.
-В алгебре логики формула принимает значение 0 только при $A=1$, $B=1$, $C=0$
+ $(A \wedge B) \to C$.
 
 ## Задание 3
 
@@ -55,7 +42,6 @@
 1. $X \to \overline{Y} \equiv \overline{X} \vee \overline{Y}$.
 2.  $\left(\overline{X} \wedge (Y \vee Z)\right) \vee \left((\overline{X} \vee \overline{Y}) \vee Z\right)$.
 3. $\left(\overline{X} \wedge (Y \vee Z)\right) \vee \overline{X} \vee \overline{Y} \vee Z$.
-4.  $\overline{X} \vee \overline{Y} \vee Z$ поглощает $\left(\overline{X} \wedge (Y \vee Z)\right)$.
 5.  $\overline{X} \vee \overline{Y} \vee Z$.
 
 Таблица истинности:
