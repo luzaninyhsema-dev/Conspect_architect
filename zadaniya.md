@@ -60,4 +60,5 @@
 
 Ответ: $\overline{X} \vee \overline{Y} \vee Z$.
 
-[Zadaniye](https://www.falstad.com/s.py?s=FeKElG)
+[Схема](https://www.falstad.com/s.py?s=FeKElG)
+[Таблица](/Exel/domashnya%20rabota.xlsx)
